@@ -6,7 +6,7 @@ const Home = () => (
         <header className="App-header">
             <h1 className="App-title">Welcome to React</h1>
         </header>
-        <p className="App-intro">Home page</p>
+        <p className="App-intro">Home page.</p>
     </div>
 )
 
